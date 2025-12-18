@@ -1,0 +1,6 @@
+streamlit
+openai
+sqlalchemy
+psycopg2-binary
+streamlit-authenticator
+pandas
